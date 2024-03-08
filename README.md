@@ -1,4 +1,4 @@
-### Hi, i'm GYOUNG KANG 👋
+### Hi, i'm GAYOUNG KANG 👋
 
 #### UI/UX Publisher / Front-end Developer
 안녕하세요!! 저는 강가영입니다.
