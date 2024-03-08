@@ -19,4 +19,4 @@
 
 🐱 About Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gangga9011@gmail.com)](gangga9011@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gangga9011@gmail.com)](gangga9011@gmail.com) [!(https://img.shields.io/badge/rss-#FFA500?style=flat-square&logo=MySite&logoColor=white&link=mailto:https://portfolio-react-site-4a961.web.app/)](https://portfolio-react-site-4a961.web.app/)
